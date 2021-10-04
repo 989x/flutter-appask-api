@@ -1,0 +1,92 @@
+{
+    
+    "info": {
+        "title": "test"
+    },
+
+    "results": [
+        {
+            "id": 1,
+            
+            "asking": "What’s the best thing that happened to you last week?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask4.png?alt=media&token=b8d46108-e54b-4b91-aaba-8a88cc5cfdf4",
+
+            "name": "Ravi Gavin",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+    
+        {
+            "id": 2,
+
+            "asking": "If you suddenly became a master at woodworking, what would you make?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask6.png?alt=media&token=98be1c39-bc06-4e4a-9c99-d1066995a17b",
+
+            "name": "Mabel Richards",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+    
+        {
+            "id": 3,
+
+            "asking": "What’s your favorite smell?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask3.png?alt=media&token=e676b585-429c-46d9-955e-842671387192",
+
+            "name": "Sofron Rosalina",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+    
+        {
+            "id": 4,
+
+            "asking": "When was the last time you immediately regretted something you said?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask4.png?alt=media&token=b8d46108-e54b-4b91-aaba-8a88cc5cfdf4",
+
+            "name": "Georgiana Cato",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+    
+        {
+            "id": 5,
+
+            "asking": "When was the last time you laughed so hard you cried?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask5.png?alt=media&token=b1ccd200-7019-4bb2-bb88-eb5df16f4c73",
+
+            "name": "Haroon Thorvald",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+    
+        {
+            "id": 6,
+
+            "asking": "If you could learn the answer to one question about your future, what would the question be?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask2.png?alt=media&token=b90cb0a8-f5d3-4075-8664-15d9158a7feb",
+
+            "name": "Piruz Nestor",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        },
+
+        {
+            "id": 7,
+
+            "asking": "What’s quickly becoming obsolete?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-ask7.png?alt=media&token=7c4b2b49-0ded-4674-a1a0-be166b69200a",
+
+            "name": "Tammy Howell",
+            "profile": "https://firebasestorage.googleapis.com/v0/b/api-app-ask.appspot.com/o/db-profile.png?alt=media&token=7619404d-a107-4f7e-93f2-e11c74ead518",
+
+            "time": "1 m ago"
+        }
+    ]
+}
